@@ -1,0 +1,6 @@
+# int + float
+ket_qua = 5 + 2.5
+print(ket_qua, type(ket_qua))
+# String + số
+ket_qua_2 = "Diem: " + str(8.5)
+print(ket_qua_2)
