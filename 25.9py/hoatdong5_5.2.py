@@ -1,0 +1,6 @@
+so_chan = list(
+    filter(lambda x: x % 2 == 0, danh_sach_so)
+)
+
+print("\nSo chan:")
+print(so_chan)
